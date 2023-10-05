@@ -1,5 +1,6 @@
 # README for ProblemSet1.ipynb
-https://colab.research.google.com/github/CourtneyBrookes/Problem1/blob/main/ProblemSet1.ipynb 
+[Colab]"https://colab.research.google.com/github/CourtneyBrookes/Problem1/blob/main/ProblemSet1.ipynb" 
+
 This Jupyter Notebook, titled `ProblemSet1.ipynb`, was generated using Colaboratory and contains Python code for working with the MNIST dataset and training a random walk model. Below, we provide an overview of the code, its purpose, and how to use it.
 
 ## Table of Contents
